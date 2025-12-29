@@ -1,0 +1,12 @@
+total 136
+drwxrwxr-x 2 drash drash  4096 2025-11-02 21:03:16.267447819 +0100 AV_01
+-rw-rw-r-- 1 drash drash   126 2025-11-04 17:48:29.869539792 +0100 cas.sh
+-rw-rw-r-- 1 drash drash     0 2025-11-12 14:24:03.334778330 +0100 dat.txt
+-rw-rw-r-- 1 drash drash    98 2025-11-02 21:09:33.212347897 +0100 helloworld.cpp
+-rw-rw-r-- 1 drash drash   423 2025-11-12 14:23:28.550181163 +0100 Lab2.py3
+-rw-rw-r-- 1 drash drash  1689 2025-11-11 16:49:31.606705658 +0100 ProcesiNitkiKriptoValuti.c
+-rw-rw-r-- 1 drash drash   323 2025-11-11 17:37:10.326091785 +0100 shellPythonPrebaruva.sh
+-rwxrwxr-x 1 drash drash 16504 2025-11-02 21:10:36.918434658 +0100 test
+-rw-rw-r-- 1 drash drash   811 2025-11-11 17:53:18.712983544 +0100 VezbaCas3Datoteki.c
+-rw-rw-r-- 1 drash drash  1073 2025-11-04 17:44:40.477329604 +0100 VezbaCasBtc.py
+-rw-rw-r-- 1 drash drash   739 2025-11-11 17:24:57.693393046 +0100 VezbaCasZborPrebaruva.py3

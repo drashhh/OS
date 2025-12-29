@@ -1,0 +1,4 @@
+root        1121       1  0 13:19 ?        00:00:00 /usr/sbin/lightdm
+root        1131    1121  2 13:19 tty7     00:03:41 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root        1301    1121  0 13:19 ?        00:00:00 lightdm --session-child 13 20
+drash      24307    8958  0 15:36 pts/0    00:00:00 grep --color=auto $*lightdm

@@ -1,0 +1,17 @@
+total 1828
+-rwxrwxr-x 1 drash drash     724 Nov 12 14:46 Lab2.py3
+-rwxrwxr-x 1 drash drash   22664 Nov 12 15:08 Lab2C
+-rwxrwxr-x 1 drash drash    1707 Nov 12 15:12 Lab2C.c
+-rwxrwxr-x 1 drash drash   16520 Nov 12 15:12 lb2
+-rwxrwxr-x 1 drash drash   16504 Nov  2 21:10 test
+-rw-rw-r-- 1 drash drash      98 Nov  2 21:09 helloworld.cpp
+-rw-rw-r-- 1 drash drash     909 Nov 12 14:24 dat.txt
+-rw-rw-r-- 1 drash drash     811 Nov 11 17:53 VezbaCas3Datoteki.c
+-rw-rw-r-- 1 drash drash     739 Nov 11 17:24 VezbaCasZborPrebaruva.py3
+-rw-rw-r-- 1 drash drash     323 Nov 11 17:37 shellPythonPrebaruva.sh
+-rw-rw-r-- 1 drash drash    1689 Nov 11 16:49 ProcesiNitkiKriptoValuti.c
+-rw-rw-r-- 1 drash drash 1635177 Nov 12 14:26 sys
+-rw-rw-r-- 1 drash drash     126 Nov  4 17:48 cas.sh
+-rw-rw-r-- 1 drash drash    1073 Nov  4 17:44 VezbaCasBtc.py
+-rw-rw-r-- 1 drash drash       0 Nov 23 14:54 sortirani.txt
+drwxrwxr-x 2 drash drash    4096 Nov  2 21:03 AV_01
